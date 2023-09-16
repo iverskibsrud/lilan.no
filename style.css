@@ -1,0 +1,13 @@
+/* For å øke skriftstørrelse */
+p, h1, h2, h3, h4, body {
+    font-size: 40px; /* Dobler skriftstørrelsen */
+  }
+
+  
+  
+  /* For å øke størrelsen på andre elementer */
+  button {
+    padding: 20px; /* Øker padding */
+    font-size: 1em; /* Øker skriftstørrelse */
+  }
+  
